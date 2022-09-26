@@ -1,5 +1,5 @@
 {
-  "name": "cli",
+  "name": "abean-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "vue",
+    "react",
+    "CLI",
+    "component"
+  ],
+  "author": "abean",
+  "license": "MIT",
+  "homepage": "https://github.com/a-bean/abean-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a-bean/abean-cli"
+  },
   "dependencies": {
     "commander": "^9.4.0",
     "ejs": "^3.1.8",
